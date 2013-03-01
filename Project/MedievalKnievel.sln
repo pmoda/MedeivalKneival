@@ -18,3 +18,23 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedievalKnievel", "MedievalKnievel\MedievalKnievel.vcxproj", "{D60A634F-003E-493B-A648-F1557C6ED4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60A634F-003E-493B-A648-F1557C6ED4A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D60A634F-003E-493B-A648-F1557C6ED4A9}.Debug|Win32.Build.0 = Debug|Win32
+		{D60A634F-003E-493B-A648-F1557C6ED4A9}.Release|Win32.ActiveCfg = Release|Win32
+		{D60A634F-003E-493B-A648-F1557C6ED4A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
